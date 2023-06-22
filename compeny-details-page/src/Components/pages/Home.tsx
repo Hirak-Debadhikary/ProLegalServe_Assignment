@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Container, Box, Flex, Text, Button, Paper } from "@mantine/core";
+import { useEffect, useState } from "react";
+import { Container, Box, Flex, Text, Button } from "@mantine/core";
 import { GrFormNextLink } from "react-icons/gr";
 
 interface DataItem {
